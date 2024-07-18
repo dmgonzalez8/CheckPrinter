@@ -8,3 +8,6 @@ Enter information in the `user_info.txt` and `check_info.txt` files and then run
 - reportlab
 - inflect
 - re, os, PIL
+
+## Sample Output
+![alt text](sample_output.png)
