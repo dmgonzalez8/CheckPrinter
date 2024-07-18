@@ -1,0 +1,21 @@
+# Enter your name and address followed by 
+# your bank's name and address and your 
+# routing numbers exactly as you want them 
+# to appear on the checks. Set required 
+# number of signatures to be 1 or 2. 
+# Signature PNG images placed in the app 
+# folder and will be automatically included
+# in alphanumeric order. 
+
+Name: George Washington
+Address Line1: 1600 Pennsylvania Avenue
+Address Line2': Washington, DC 10000
+
+Bank Name: Python Federal Credit Union
+Bank Address Line1: PO BOX 12345
+Bank Address Line2: Washington, DC 10000
+
+Routing Number: 1776070400
+Account Number: 0123456789
+
+Signatures Required: 2

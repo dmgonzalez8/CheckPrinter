@@ -1,0 +1,11 @@
+# Enter check information separated by tabs, one check per line. 
+# You MUST have a check number. 
+# All other fields may be left blank (enter a period for blank). 
+# Output files will be named by their number (e.g. 1001.pdf). 
+# Existing files of the same name/number will be overwritten.
+
+Number	Date		Amount		Payee			Memo	
+
+1001	1812 June 18	1578.69		Thomas Jefferson	Cannons and gunpowder
+1002	.		12.73		Treasury		.
+1003	.		.		.			.	
