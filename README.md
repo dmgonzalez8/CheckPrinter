@@ -10,4 +10,4 @@ Enter information in the `user_info.txt` and `check_info.txt` files and then run
 - re, os, PIL
 
 ## Sample Output
-![alt text](sample_output.png)
+![image](sample_check.png)
